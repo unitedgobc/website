@@ -1,0 +1,12 @@
+[
+  {
+     "name":"Raidbot",
+     "url":"https://discord.gg/BJXU4fW",
+     "desc":"A Discord bot created to help trainers organize raids."
+  },
+  {
+     "name":"GVRD Grunt Bot",
+     "url":"https://github.com/rhliang/GVRDGrunt",
+     "desc":"A Discord bot that helps to verify members joining out Discord groups."
+  }
+]
