@@ -16,6 +16,10 @@ This page is still a work in progress, check back for more updates.
 - [Prince George](/pg)
 - [Salmon Arm](/salmonarm)
 - [Fort St. John](/fsj)
+- [Kamloops](/kamloops)
+- [Victoria](/victoria)
+- [Nanaimo/Duncan/Courtenay/Comox](/nanaimo)
+- [Kelowna](/keylowna)
 
 ## What's this?
 This is a list of all guilds that we know of, and it is ever changing. Know of a guild that has community but it's not on this list? Let us know!
